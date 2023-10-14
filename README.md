@@ -1,2 +1,1 @@
-Godmode7 is a discontinued project
-This is a HTML webpage source code
+Godmode7 is a discontinued project, This repo only exist because a CloudFlare server is currently hosting the webpage.
